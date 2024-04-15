@@ -39,7 +39,7 @@ ASOUND = '/etc/asound.conf'
 TEMP = Path('/tmp/service')
 ALLOWED_LANGUAGES = {'en', 'de', 'fr', 'it', 'pt', 'pl'}
 FALLBACK_ASR = 'coqui'
-PYTHON = 'python3.7'
+PYTHON = 'python3.9'
 
 
 class InitDict(dict):
